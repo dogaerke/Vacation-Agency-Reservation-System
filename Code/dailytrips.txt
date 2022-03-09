@@ -1,0 +1,16 @@
+Winter Kastamonu/Ilgaz 350
+Winter Bursa/Uludag 500
+Winter Agva/Istanbul 400
+Winter Konya 150
+Winter Mudurnu/Bolu 300
+Summer Amasra/Bartin 200
+Summer Kizilcahamam/Ankara 160
+Summer Eskisehir 300
+Summer Antalya/Antik_Kent 350
+Summer Ankara/Beypazari 240
+Spring Nevsehir/Kapadokya 450
+Spring Masukiye/Kocaeli 150
+Spring Bolu/Abant 400
+Spring Polonezkoy/Istanbul 400
+Spring Trilye/Bursa 300
+ 
